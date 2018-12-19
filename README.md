@@ -23,8 +23,8 @@ You can contact mentors for contribution to this project.You can make pull reque
 
 ## Mentors
 
-* [Rishav Kumar](https://www.facebook.com/rishav.kumar11) rishavkumar15021998@gmail.com
-* [Ankit Joshi](https://www.facebook.com/ankit.joshi.12327608) joshi.aj420@gmail.com
-* [Kashyap Mahanta](https://www.facebook.com/kashyap2108) kashyap959821@gmail.com
+* [Rishav Kumar](https://www.facebook.com/rishav.kumar11) - rishavkumar15021998@gmail.com
+* [Ankit Joshi](https://www.facebook.com/ankit.joshi.12327608) - joshi.aj420@gmail.com
+* [Kashyap Mahanta](https://www.facebook.com/kashyap2108) - kashyap959821@gmail.com
 
 
