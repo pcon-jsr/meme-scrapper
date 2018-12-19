@@ -1,8 +1,4 @@
-# Problem Statement
-
-
-
-## Relevent Meme Scrapper and Finder
+# Relevent Meme Scrapper and Finder
 
 The best way of spreading message and humour jokes is Meme.
 A meme is a virally-transmitted cultural symbol or social idea.
@@ -27,10 +23,8 @@ You can contact mentors for contribution to this project.You can make pull reque
 
 ## Mentors
 
-* [Rishav Kumar](https://www.facebook.com/rishav.kumar11)
-* [Ankit Joshi](https://www.facebook.com/ankit.joshi.12327608)
+* [Rishav Kumar](https://www.facebook.com/rishav.kumar11) rishavkumar15021998@gmail.com
+* [Ankit Joshi](https://www.facebook.com/ankit.joshi.12327608) joshi.aj420@gmail.com
+* [Kashyap Mahanta](https://www.facebook.com/kashyap2108) kashyap959821@gmail.com
 
 
-
-
-# meme-scrapper
