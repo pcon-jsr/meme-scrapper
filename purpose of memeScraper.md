@@ -19,6 +19,6 @@ scrapy call memebot
 This scraper returns title, image and tags for a meme in a csv file memedroid.csv
 
 ## Future Need:
-* Scrap memes from more websites to get sufficient data.
+* Scrap memes from more websites.
 * Use of machine learning to provide relevant tags to meme without tags.
 * Make a suitable GUI for the resulting application.
