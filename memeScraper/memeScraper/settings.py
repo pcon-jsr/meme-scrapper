@@ -14,6 +14,9 @@ BOT_NAME = 'memeScraper'
 SPIDER_MODULES = ['memeScraper.spiders']
 NEWSPIDER_MODULE = 'memeScraper.spiders'
 
+#Export as csv feed
+FEED_FORMAT = "csv"
+FEED_URI = "memedroid.csv"
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'memeScraper (+http://www.yourdomain.com)'
