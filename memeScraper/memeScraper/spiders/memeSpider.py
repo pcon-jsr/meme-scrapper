@@ -27,8 +27,9 @@ class MemeSpider(Spider):
             tag = article.xpath(".//div[@class='tags-container']/a/text()").extract()
             Tags.append(tag)
             print('\n')
-        item = Meme()
-        item['title'] = Title
-        item['image'] = Image
-        item['tags'] = Tags
-        return item
+        Item = Meme()
+        for item in zip(Title,Image, Tags):
+            Item['title'] = item[0]
+            Item['image'] = item[1]
+            Item['tags'] = item[2]
+            yield Item
