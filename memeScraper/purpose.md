@@ -9,7 +9,7 @@ Scrapy
 ## How to run:
 
 Run the memeSpider of memeScraper.
-Type this in console
+Type this in command line
 ```
 scrapy call memebot
 ```
