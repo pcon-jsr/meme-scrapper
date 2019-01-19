@@ -16,7 +16,8 @@ scrapy crawl memebot
 
 ## Output:
 
-This scraper returns title, image and tags for a meme in a csv file memedroid.csv
+This scraper returns title, image and tags for a meme in a csv file memedroid.csv.
+imagexam.py makes use of ocr space api to find texts inside the meme images for classification.
 
 ## Future Works to be Performed:
 * Scrap memes from more websites.
